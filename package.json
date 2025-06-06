@@ -1,0 +1,12 @@
+{
+  "name": "mover-socket-api",
+  "version": "1.0.0",
+  "description": "A simple TCP socket API for moveTo and moveBy commands",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["socket", "TCP", "mover", "Node.js"],
+  "author": "",
+  "license": "MIT"
+}
